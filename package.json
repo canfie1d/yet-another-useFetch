@@ -1,0 +1,27 @@
+{
+  "name": "yet-another-usefetch",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/canfie1d/yet-another-usefetch.git"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "license": "(MIT OR Apache-2.0)",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
