@@ -1,6 +1,6 @@
 # useFetch
 
-This implementation of useFetch adds the ability to conditionally call REST endpoints which is missing from most.
+This implementation of a useFetch hook adds the ability to conditionally call REST endpoints which is missing from other useFetch functions I've seen.
 
 ## Features
 
