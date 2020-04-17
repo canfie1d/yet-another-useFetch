@@ -1,7 +1,8 @@
 {
   "name": "yet-another-usefetch",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "license": "(MIT OR Apache-2.0)",
+  "main": "useFetch.min.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/canfie1d/yet-another-usefetch.git"

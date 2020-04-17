@@ -11,6 +11,15 @@ This implementation of a useFetch hook adds the ability to conditionally call RE
 - Conditional fetch
 - Refetch
 
+## Useage
+```sh
+  yarn add yet-another-usefetch
+```
+
+```js
+import { useFetch } from "yet-another-usefetch";
+```
+
 ## ARGS
 
 `url` string _default: null_
@@ -79,6 +88,8 @@ When updating server data this function sets the body. Useful if you are sending
 Initiates another request to the server. Accepts a _boolean_ argument, typically `true`, which gets reset to false after the request resolves or errors.
 
 ## Examples
+
+[Code Sandbox Example](https://codesandbox.io/s/yet-another-usefetch-example-ogkjb?file=/src/UseFetchExample.js)
 
 Simple GET
 
